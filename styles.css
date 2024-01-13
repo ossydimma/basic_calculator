@@ -8,7 +8,7 @@ body {
 #container {
     border-radius: 18px;
     width: 30%;
-    height: 70vh;
+    height: 80vh;
     margin: 70px auto 0 ;
     background-color: black;
     padding-top: 20px;
@@ -75,6 +75,7 @@ section {
     #container {
         border-radius: 18px;
         width: 50%;
+        height: 70vh;
         
     }
 }
